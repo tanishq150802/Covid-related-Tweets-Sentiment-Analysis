@@ -7,5 +7,5 @@ Use **NLPchallenge.ipynb** to run the whole code. You can also use Google Colabo
 2. Performed text cleaning and stemming as a part of preprocessing.
 3. Performed GloVe embedding for word representation in vector form for the model to understand.
 4. Used LSTM model as they retain data memory for longer sequences unlike RNNs.
-5. Achieved a testing accuracy of 93.5%.
+5. Achieved an accuracy of 92.55% on solution dataset.
 
